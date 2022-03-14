@@ -1,3 +1,5 @@
+#Find second maximum and second minimum of an input array.
+
 #include<stdio.h>
 int main()
 {
