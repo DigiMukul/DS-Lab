@@ -1,6 +1,6 @@
 # Data Structure Lab
-Exp1: Find second maximum and second minimum of an input array.
-Exp2: Program to implement stack and its operations
+##Exp1: Find second maximum and second minimum of an input array.
+##Exp2: Program to implement stack and its operations
 Exp3: Program to solve tower of hanoi problem
 Exp4: Program to implement a queue and its operations
 Exp5: Program to implement a circular queue and its operations
